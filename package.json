@@ -24,7 +24,7 @@
         "@nestjs/common": "^8.0.0",
         "@nestjs/core": "^8.0.0",
         "@nestjs/microservices": "^8.0.6",
-        "@nestjs/platform-express": "^8.0.0",
+        "@nestjs/platform-express": "^8.3.1",
         "amqp-connection-manager": "^3.6.0",
         "amqplib": "^0.8.0",
         "aws-sdk": "^2.1066.0",
